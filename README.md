@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧪 Automatização de Testes em Java  
+# 🧪 Automatização de Testes em Java  ☕
 ### _Testes Unitários, Integração, Mocks e Boas Práticas com JUnit 5, Mockito e Spring Boot_
 
 [![Java](https://img.shields.io/badge/Java-25+-orange?logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
